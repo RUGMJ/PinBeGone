@@ -1,0 +1,9 @@
+Package: dev.rugmj.pinbegone
+Name: PinBeGone
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes the search pill. Don't do drugs
+Maintainer: rugmj
+Author: rugmj
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)
